@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Nancy Youssef.gif />
+  <img src="nancy-banner.gif" >
 </p>
  Data Scientist | Machine Learning & Data Analytics
 , Predictive Analytics, and Business Intelligence

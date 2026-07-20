@@ -76,7 +76,6 @@ Power BI dashboard with KPI tracking, forecasting, business insights, and intera
 
 ---
 
-[![](https://img.shields.io/badge/-📡%20Real-Time%20Stock%20Market%20Analytics-000)](https://github.com/YOUR_USERNAME/Stock-Market-Analytics)
 
 Streaming analytics pipeline using Kafka, Spark Streaming, Cassandra, MongoDB, and Kibana.
 

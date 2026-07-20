@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Nancy+Youssef;Data+Scientist;Machine+Learning+Engineer;Data+Analytics+%7C+Big+Data;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
+  <img src="Nancy Youssef.gif />
 </p>
  Data Scientist | Machine Learning & Data Analytics
 , Predictive Analytics, and Business Intelligence

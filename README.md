@@ -86,8 +86,3 @@ Streaming analytics pipeline using Kafka, Spark Streaming, Cassandra, MongoDB, a
 Natural Language Processing project using BERT/LSTM models for sentiment and emotion classification.
 
 ---
-
-<a href="https://github.com/YOUR_USERNAME">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
-</a>
